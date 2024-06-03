@@ -1,0 +1,44 @@
+.boxx{
+    background-color:#008273;
+    width: 920px;
+    height:654px;
+    margin: 0 auto;
+}
+
+samp{
+    
+    width: 490px;
+    height: 94px;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 250px;
+    color: aliceblue;
+    background-color: #402A00;
+    
+}
+
+.box{
+    background-color: black;
+    width: 780px;
+    height: 400px;
+    margin: 0 auto;
+}
+
+.text{
+    color: black;
+    background-color: #00E0B8;
+    width: 730px;
+    height: 120px;
+    margin: 0 auto;
+    text-align: center ;
+    padding-top: 30px;
+    font-size: 20px;
+
+}
+
+.red{
+    width: 800px;
+    height: 430px;
+    margin: 0 auto;
+    background-color: red;
+}
